@@ -91,6 +91,7 @@ out*/
 # Windows
 Thumbs.db
 Desktop.ini
+*.lnk
 
 # Linux
 .nfs*
